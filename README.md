@@ -2,13 +2,13 @@
 ## C23-PS226
 
 ## 🙋‍ Members :
-M008BSY1388 – Faris Qanit – Machine Learning - Universitas Gadjah Mada
-M319BSX1827 – Yeni Herlina Azis – Machine Learning - Universitas Sumatera Utara
-M001BSX1453 – Dwi Fidiana – Machine Learning - Institut Pertanian Bogor
-C596BSY3367 – Agung Fajar Risnandar – Cloud Computing - Universitas Sebelas April
-C596BSY3366 – Faisal Rahman – Cloud Computing - Universitas Sebelas April
-A227BSY2824 – Bima Jati Kusuma – Cloud Computing - Universitas Jember
-A179BSY2136 – Muhammad Ilham Fauzan – Cloud Computing - Universitas Ahmad Dahlan
+- M008BSY1388 – Faris Qanit – Machine Learning - Universitas Gadjah Mada
+- M319BSX1827 – Yeni Herlina Azis – Machine Learning - Universitas Sumatera Utara
+- M001BSX1453 – Dwi Fidiana – Machine Learning - Institut Pertanian Bogor
+- C596BSY3367 – Agung Fajar Risnandar – Cloud Computing - Universitas Sebelas April
+- C596BSY3366 – Faisal Rahman – Cloud Computing - Universitas Sebelas April
+- A227BSY2824 – Bima Jati Kusuma – Cloud Computing - Universitas Jember
+- A179BSY2136 – Muhammad Ilham Fauzan – Cloud Computing - Universitas Ahmad Dahlan
 
 ## 🍿Description :
 
