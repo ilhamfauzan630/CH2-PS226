@@ -22,7 +22,7 @@ There is no doubt that AI has brought transformative advancements. But it also p
 3. [Suara-Kita-ML-FlaskAPI-SiameseNetwork](https://github.com/C23-PS001/flask-siamese). Machine learning Siamese model with Flask API connected to gcloud storage and database deployed using Google Cloud Run.
 
 ### Cloud Computing
-[Catora-API](https://github.com/C23-PS001/Suara-Kita-API). API Server for Login, Register, Upload your Artworks, and do some magic for your pocket.
+[Catora-API](https://github.com/CH2-PS226/Cloud-Computng). API Server for Login, Register, Upload your Artworks, and do some magic for your pocket.
 
 ### Mobile Development
 [Catora-App](https://github.com/C23-PS001/SuaraKitaApp). Suara Kita Application using Android Studio with Kotlin.
