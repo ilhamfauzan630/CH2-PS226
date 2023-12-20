@@ -17,7 +17,7 @@ There is no doubt that AI has brought transformative advancements. But it also p
 ## Repositories
 
 ### Machine Learning
-[Suara-Kita-ML-Testing-Training-Model](https://github.com/CH2-PS226/Machine-Learning). Machine learning training model includes jupyter notebook, h5 file, and python.
+[Catora-Machine Learning](https://github.com/CH2-PS226/Machine-Learning). Machine learning training model includes jupyter notebook, h5 file, and python.
 
 ### Cloud Computing
 [Catora-API](https://github.com/CH2-PS226/Cloud-Computng). API Server for Login, Register, Upload your Artworks, and do some magic for your pocket.
