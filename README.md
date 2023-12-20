@@ -7,8 +7,8 @@
 - M001BSX1453 – Dwi Fidiana – Machine Learning - Institut Pertanian Bogor
 - C596BSY3367 – Agung Fajar Risnandar – Cloud Computing - Universitas Sebelas April
 - C596BSY3366 – Faisal Rahman – Cloud Computing - Universitas Sebelas April
-- A227BSY2824 – Bima Jati Kusuma – Cloud Computing - Universitas Jember
-- A179BSY2136 – Muhammad Ilham Fauzan – Cloud Computing - Universitas Ahmad Dahlan
+- A227BSY2824 – Bima Jati Kusuma – Mobile Development - Universitas Jember
+- A179BSY2136 – Muhammad Ilham Fauzan – Mobile Development - Universitas Ahmad Dahlan
 
 ## 🍿Description :
 
