@@ -23,4 +23,4 @@ There is no doubt that AI has brought transformative advancements. But it also p
 [Catora-API](https://github.com/CH2-PS226/Cloud-Computng). API Server for Login, Register, Upload your Artworks, and do some magic for your pocket.
 
 ### Mobile Development
-[Catora-App](https://github.com/C23-PS001/SuaraKitaApp). Suara Kita Application using Android Studio with Kotlin.
+[Catora-App](https://github.com/C23-PS001/SuaraKitaApp). Catora Application using Android Studio with Kotlin.
