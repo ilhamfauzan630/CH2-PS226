@@ -17,9 +17,7 @@ There is no doubt that AI has brought transformative advancements. But it also p
 ## Repositories
 
 ### Machine Learning
-1. [Suara-Kita-ML-Testing-Training-Model](https://github.com/C23-PS001/ML-RaKit). Machine learning training model includes jupyter notebook, h5 file, and python.
-2. [Suara-Kita-ML-FlaskAPI-OCR](https://github.com/C23-PS001/flask-ocr). Machine learning OCR models with Flask API connected to gcloud storage.
-3. [Suara-Kita-ML-FlaskAPI-SiameseNetwork](https://github.com/C23-PS001/flask-siamese). Machine learning Siamese model with Flask API connected to gcloud storage and database deployed using Google Cloud Run.
+[Suara-Kita-ML-Testing-Training-Model](https://github.com/CH2-PS226/Machine-Learning). Machine learning training model includes jupyter notebook, h5 file, and python.
 
 ### Cloud Computing
 [Catora-API](https://github.com/CH2-PS226/Cloud-Computng). API Server for Login, Register, Upload your Artworks, and do some magic for your pocket.
